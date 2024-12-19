@@ -185,3 +185,9 @@ GithubRepoRepository -->> GithubRepoUseCase: 6. Get data success -> parser model
 GithubRepoUseCase -->> SearchRepoViewModel: 7. Data
 SearchRepoViewModel -->> SearchRepoView: 8. Binding data
 ```
+
+
+## Thông tin thư viện
+Factory : 2.0.0 
+Stinsen : 2.0.0 : Quản lý hỗ trợ điều hướng navigation của swiftUI
+SwiftMessages: 9.0.0
